@@ -1,0 +1,9 @@
+/* Hides blocked messages. */
+div[class^="messageGroupBlocked-"], div[class*=" messageGroupBlocked-"] {
+display: none;
+}
+
+/* Hides the server outage warning. */
+#app-mount .wrapper-1Rf91z .scroller-2TZvBN .guildsError-b7zR5H {
+display: none;
+}
