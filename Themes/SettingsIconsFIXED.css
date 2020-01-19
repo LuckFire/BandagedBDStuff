@@ -1,4 +1,3 @@
-
 .sidebar-CFHs9e .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:not(.role-3wi9Tf)::before,
 .side-8zPYf6 .item-PXvHYJ:not(.role-3wi9Tf)::before {
     content: "";
@@ -19,7 +18,7 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {padding-left: 10px;}
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before{background:url(https://codedotspectra.github.io/themes/icons/connections.png) center} /* Connections */
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(6)::before{background:url(https://codedotspectra.github.io/themes/icons/billing.png) center} /* Billing */
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before{background:url(https://codedotspectra.github.io/themes/icons/nitro.png) center} /* Subscriptions */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{background:url(https://luckfire.github.io/BandagedBDStuff/Themes/Assets/gift_inventory.png) center} /* Gift Inventory*/
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{background:url(https://luckfire.github.io/BandagedBDStuff/Themes/Assets/gift_inv.png) center} /* Gift Inventory*/
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(10)::before{background:url(https://luckfire.github.io/BandagedBDStuff/Themes/Assets/nitro_boosting.png) center} /* Server Boosting */
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(11)::before{background:url(https://codedotspectra.github.io/themes/icons/hype.png) center} /* Hypesquad */
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(13)::before{background:url(https://codedotspectra.github.io/themes/icons/voice.png) center} /* Voice & Video */
