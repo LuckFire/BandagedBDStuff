@@ -26,18 +26,17 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {padding-left: 10px;}
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before{background:url(https://codedotspectra.github.io/themes/icons/notifications.png) center} /* Notifications */
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before{background:url(https://codedotspectra.github.io/themes/icons/keybinds.png) center} /* Keybinds */
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before{background:url(https://codedotspectra.github.io/themes/icons/games.png) center} /* Game Activity */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{background:url(https://codedotspectra.github.io/themes/icons/activity_feed.png) center} /* Activity Feed */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:url(https://codedotspectra.github.io/themes/icons/text.png) center} /* Text & Images */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before{background:url(https://codedotspectra.github.io/themes/icons/eye.png) center} /* Appearance */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before{background:url(https://codedotspectra.github.io/themes/icons/twitch.png) center} /* Streamer Mode */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(23)::before{background:url(https://codedotspectra.github.io/themes/icons/language.png) center} /* Language */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(24)::before{background:url(https://codedotspectra.github.io/themes/icons/windows.png) center} /* Windows Settings */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before{background:url(https://codedotspectra.github.io/themes/icons/changelog.png) center} /* Change Log */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before{background:url(https://codedotspectra.github.io/themes/icons/experiments.png) center} /* Experiments */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(28)::before{background:url(https://codedotspectra.github.io/themes/icons/dev_options.png) center} /* Developer Options */
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{background:url(https://codedotspectra.github.io/themes/icons/text.png) center} /* Text & Images */
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:url(https://codedotspectra.github.io/themes/icons/eye.png) center} /* Appearance */
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before{background:url(https://codedotspectra.github.io/themes/icons/twitch.png) center} /* Streamer Mode */
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before{background:url(https://codedotspectra.github.io/themes/icons/language.png) center} /* Language */
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(23)::before{background:url(https://codedotspectra.github.io/themes/icons/windows.png) center} /* Windows Settings */
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before{background:url(https://codedotspectra.github.io/themes/icons/changelog.png) center} /* Change Log */
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before{background:url(https://codedotspectra.github.io/themes/icons/experiments.png) center} /* Experiments */
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before{background:url(https://codedotspectra.github.io/themes/icons/dev_options.png) center} /* Developer Options */
 .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::before{background:url(https://codedotspectra.github.io/themes/icons/core.png) center} /* Settings */
 .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::before{background:url(https://codedotspectra.github.io/themes/icons/emote.png) center} /* Emotes */
 .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::before{background:url(https://codedotspectra.github.io/themes/icons/plugins.png) center} /* Plugins */
 .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::before{background:url(https://codedotspectra.github.io/themes/icons/theme.png) center} /* Themes */
 .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::before{background:url(https://codedotspectra.github.io/themes/icons/css.png) center} /* Custom CSS */
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(31)::before{background:url(https://luckfire.github.io/BandagedBDStuff/Themes/Assets/logout.png) center} /* Log Out */
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(30)::before{background:url(https://luckfire.github.io/BandagedBDStuff/Themes/Assets/logout.png) center} /* Log Out */
