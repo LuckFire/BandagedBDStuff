@@ -7,8 +7,3 @@ display: none;
 #app-mount .wrapper-1Rf91z .scroller-2TZvBN .guildsError-b7zR5H {
 display: none;
 }
-
-/* Hides offline users from friends list. */
-.peopleList-3c4jOR > div + div {
-    display: none;
-}
