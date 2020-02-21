@@ -1,0 +1,41 @@
+/* Hides blocked messages. */
+div[class^="messageGroupBlocked-"], div[class*=" messageGroupBlocked-"] {
+display: none;
+}
+
+/* Hides the server outage warning. */
+#app-mount .wrapper-1Rf91z .scroller-2TZvBN .guildsError-b7zR5H {
+display: none;
+}
+
+/* Change Link and Highlight Colors */
+::selection {
+    background-color: #C49D82;
+}
+
+.da-anchorUnderlineOnHover[target="_blank"][role="button"] {
+    color: #F8C57C}
+.fakeLink-26oLcc {
+    color: #F8C57C;
+}
+
+/* Minimzies Friends and Nitro in DMs */
+.da-channel[href="/channels/@me"]  > .da-layout > .da-content {
+  visibility: hidden;
+}
+.da-channel[href="/channels/@me"] {
+  max-width: 41px;
+}
+
+.da-channel[href="/store"]  > .da-layout > .da-content {
+  visibility: hidden;
+}
+.da-channel[href="/store"] {
+  max-width: 41px;
+}
+.da-channel[href="/store"]  {
+  position: relative;
+  top: -44px;
+  margin-bottom: -45px;
+  right: -44px;
+}
