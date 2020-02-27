@@ -19,8 +19,15 @@ display: none;
 
 
 /* Changes the backdrop layer opacity */
+:root {
+    --transparency: 0.5;
+}
+
 .da-backdropWithLayer {
-opacity: 0.3 !important;
+    opacity: var(--transparency) !important;
+}
+.da-backdrop {
+    opacity: var(--transparency) !important;
 }
 
 
