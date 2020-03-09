@@ -27,7 +27,24 @@ display: none;
   visibility: hidden;
 }
 .da-channel[href="/channels/@me"] {
-  max-width: 41px;
+  max-width: 42px;
+}
+
+.da-layout > .da-children {
+  visibility: hidden !important;
+}
+
+.da-channel[href="/store"]  > .da-layout > .da-content {
+  visibility: hidden;
+}
+.da-channel[href="/store"] {
+  max-width: 42px;
+}
+.da-channel[href="/store"]  {
+  position: relative;
+  top: -44px;
+  margin-bottom: -45px;
+  right: -44px;
 }
 
 .da-channel[href="/store"]  > .da-layout > .da-content {
