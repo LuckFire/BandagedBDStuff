@@ -4,15 +4,27 @@ display: none;
 }
 
 
-/* Change Link and Highlight Colors */
+/* Change Link and Highlight Colors. */
 .da-anchorUnderlineOnHover[target="_blank"][role="button"] {
     color: rgb(255,105,180)}
 .fakeLink-26oLcc {
     color: rgb(255,105,180)
 }
 
+/* Change @mention color. */
+.mentioned-xhSam7:before {
+  background-color: rgb(255,105,180);
+}
 
-/* Minimzies Friends and Nitro in DMs */
+.mentioned-xhSam7 {
+  background-color: rgba(255,105,180,.1);
+}
+
+.message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode.full-motion .mentioned-xhSam7:hover {
+  background-color: rgba(255,105,180,.15);
+}
+
+/* Minimzies Friends and Nitro in DMs (made by hoofer). */
 .da-channel[href="/channels/@me"]  > .da-layout > .da-content {
   visibility: hidden;
 }
