@@ -7,7 +7,7 @@
  * @website https://www.gibbu.me
 */
 
-@import url("https://gibbubdstuff.github.io/RadialStatus/base.css");
+@import url("https://raw.githack.com/Gibbu/BetterDiscord-Themes/master/RadialStatus/base.css");
 
 :root {
   --rs-small-spacing: 0.75px;  /* spacing between avatar and status */
